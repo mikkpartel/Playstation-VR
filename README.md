@@ -1,7 +1,7 @@
 ###Playstation-VR
 
 * 5.7 inch 1920 X RGB X 1080 resolution OLED display. 
-* 120 Hz refresh rate. 
+* 120 _Hz_ refresh rate. 
 * Super low latency. 
 * About __350£__. 
 * Release date somewhere in 2016. 
